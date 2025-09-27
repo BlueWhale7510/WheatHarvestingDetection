@@ -1,0 +1,2 @@
+# WheatHarvestingDetection
+基于ResNet50的小麦收割检测模型
